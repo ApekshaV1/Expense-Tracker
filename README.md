@@ -1,0 +1,1 @@
+The Expense Tracker is a simple web-based application built using HTML, CSS, and JavaScript. It allows users to track their daily expenses by adding transactions and viewing the total income, expenses, and balance in real-time. The app features an intuitive interface for adding and managing expense and income items.
